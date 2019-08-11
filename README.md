@@ -25,5 +25,5 @@ Data pre-explore:
 
 ```
 import pandas_profiling  
-data.profile_report(title='Titanic Dataset')
+data.profile_report(title='report title')
 ```
