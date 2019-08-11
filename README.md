@@ -17,3 +17,11 @@ PATH=%PATH%;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Scripts
 
 PATH=%PATH%;"C:\Users\iemsuser\Anaconda3";"C:\Users\iemsuser\Anaconda3\Scripts"
 
+# For data
+
+## Data Clean
+
+'''
+import pandas_profiling  
+data.profile_report(title='Titanic Dataset')
+'''
