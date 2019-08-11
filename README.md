@@ -21,7 +21,9 @@ PATH=%PATH%;"C:\Users\iemsuser\Anaconda3";"C:\Users\iemsuser\Anaconda3\Scripts"
 
 ## Data Clean
 
-'''
+Data pre-explore:
+
+```
 import pandas_profiling  
 data.profile_report(title='Titanic Dataset')
-'''
+```
